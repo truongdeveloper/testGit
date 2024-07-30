@@ -11,4 +11,9 @@
 {
   truong: 1123,
   location: Vinh Phuc
+  ower: Linh Mai
+},
+{
+  address: Bang,
+  location: Phu Tho
 }
