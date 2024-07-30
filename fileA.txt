@@ -1,4 +1,10 @@
 {
   address: Thanh Hoa,
-  location: Thanh Pho thanh Hoa
+  location: Thanh Pho thanh Hoa,
+  ower: Truong
+},
+{
+  address: Ha Noi,
+  location: Dong Da,
+  ower: Linh
 }
