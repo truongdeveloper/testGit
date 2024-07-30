@@ -6,7 +6,7 @@
 {
   address: Ha Noi,
   location: Dong Da,
-  ower: Linh
+  ower: Truong
 },
 {
   truong: 1123,
