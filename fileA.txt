@@ -1,0 +1,4 @@
+{
+  address: Thanh Hoa,
+  location: Thanh Pho thanh Hoa
+}
