@@ -6,5 +6,9 @@
 {
   address: Ha Noi,
   location: Dong Da,
-  ower: Linh
+  ower: Linh Mai
+},
+{
+  address: Bang,
+  location: Phu Tho
 }
