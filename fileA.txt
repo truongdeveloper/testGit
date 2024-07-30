@@ -7,4 +7,8 @@
   address: Ha Noi,
   location: Dong Da,
   ower: Linh
+},
+{
+  truong: 1123,
+  location: Vinh Phuc
 }
